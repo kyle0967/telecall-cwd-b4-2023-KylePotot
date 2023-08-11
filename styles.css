@@ -1,0 +1,97 @@
+body {
+    font-family: Baskerville, serif;
+    background-image: url('images/parallax-img.jpg');
+}
+
+p {
+    font-size: 20px;
+    font-weight: 350;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 120;
+    color: #8a4c4c;
+    font-size: 10px;
+    font-weight: 350;
+}
+
+.slider-txt-MA{
+    color:  rgba(187, 175, 187, 0.849);
+}
+
+.MA-image {
+    width: 100%;
+    height: auto;
+}
+
+.martial-arts-logo-txt{
+    font-weight: bold;
+}
+
+.sidenav-text {
+    font-weight: bold;
+}
+
+.slider {
+    height: auto;
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    text-align: left;
+    font-size: 0;
+    animation: 20s slider infinite; 
+}
+
+.section, .sect {
+    color: #312d2dc0;
+    background-color: whitesmoke;
+}
+
+.adobe-content {
+    position: sticky;
+    top: 20px;
+}
+
+.table-of-contents {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#adobe-txt {
+    font-weight: 220;
+    font-size: 17px;
+    color: #b71c1c;
+}
+
+#adobe2-txt {
+    font-weight: 220;
+    font-size: 15px;
+    color: #b71c1c;
+}
+
+.MA-image {
+    width: 100%;
+    height: auto;
+}
+
+.shop-section {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: 100%;
+    
+    background-image: url('images/parallax-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.shop-txt {
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    font-size: 79px;
+    color: rgb(0, 0, 0);
+
+}
